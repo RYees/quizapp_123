@@ -1,0 +1,22 @@
+{
+  "name": "questionapp_000",
+  "version": "1.0.1",
+  "description": "to multiple questions for any purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RYees/quizapp_123.git"
+  },
+  "keywords": [
+    "question"
+  ],
+  "author": "rehmetyeshanew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RYees/quizapp_123/issues"
+  },
+  "homepage": "https://github.com/RYees/quizapp_123#readme"
+}

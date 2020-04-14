@@ -4,7 +4,7 @@ The website application uses to form a muliple question for any thing we want an
 
 # Installation
 
-`npm i QuestionApp --save`
+`npm i questionapp --save`
 
 # Usage
 
